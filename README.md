@@ -35,4 +35,4 @@ MoneyTrackr comes with a lot of features out of the box and all features are fre
 
 ## Demo
 [![thumbnail](https://user-images.githubusercontent.com/26252867/132318629-7ebcc446-5e9a-438d-9f5a-ca741032a313.png)
-](https://www.youtube.com/watch?v=ylWxBwVgIIc)
+](https://youtu.be/JhX3M5UaBVo)
