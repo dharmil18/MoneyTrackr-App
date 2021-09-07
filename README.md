@@ -1,5 +1,8 @@
-# [MoneyTrackr-App](https://moneytrackr-app.herokuapp.com) 💸
+# [MoneyTrackr](https://moneytrackr-app.herokuapp.com) 💸
 MoneyTrackr is your one stop solution to track your Income, Expenses, Investments &amp; Loans Repaid. Once you start tracking, MoneyTrackr shows you the summary of your money earned, spent and invested. It also provides you interactive charts that help you understand your income sources, expense pattern across categories &amp; diversity in your investments.
+
+# Access the webapp here
+[MoneyTrackr](https://moneytrackr-app.herokuapp.com)
 
 ## Features
 MoneyTrackr comes with a lot of features out of the box and all features are free to use. None of the feature is locked behind a paywall, so you get access to the entire solution. It comes with features such as tracking your money, multiple currency support, analysing and creating an interactive chart and generating a summary of your money.
@@ -30,5 +33,6 @@ MoneyTrackr comes with a lot of features out of the box and all features are fre
   - Edit/Delete already created entries.
 
 
-# Access the webapp here
-> [MoneyTrackr](https://moneytrackr-app.herokuapp.com)
+## Demo
+[![thumbnail](https://user-images.githubusercontent.com/26252867/132318629-7ebcc446-5e9a-438d-9f5a-ca741032a313.png)
+](https://www.youtube.com/watch?v=ylWxBwVgIIc)
